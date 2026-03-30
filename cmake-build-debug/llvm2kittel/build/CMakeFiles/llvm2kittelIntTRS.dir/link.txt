@@ -1,0 +1,2 @@
+/usr/bin/ar cr libllvm2kittelIntTRS.a  CMakeFiles/llvm2kittelIntTRS.dir/lib/IntTRS/Constraint.cpp.o CMakeFiles/llvm2kittelIntTRS.dir/lib/IntTRS/Polynomial.cpp.o CMakeFiles/llvm2kittelIntTRS.dir/lib/IntTRS/Rule.cpp.o CMakeFiles/llvm2kittelIntTRS.dir/lib/IntTRS/Term.cpp.o
+/usr/bin/ranlib libllvm2kittelIntTRS.a

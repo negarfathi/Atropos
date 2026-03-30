@@ -1,0 +1,2 @@
+/usr/bin/ar cr libllvm2kittelUtil.a  CMakeFiles/llvm2kittelUtil.dir/lib/Util/CommandLine.cpp.o CMakeFiles/llvm2kittelUtil.dir/lib/Util/gmp_kittel.cpp.o
+/usr/bin/ranlib libllvm2kittelUtil.a

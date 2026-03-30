@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libllvm2kittelIntTRS.a CMakeFiles/llvm2kittelIntTRS.dir/lib/IntTRS/Constraint.cpp.o CMakeFiles/llvm2kittelIntTRS.dir/lib/IntTRS/Polynomial.cpp.o CMakeFiles/llvm2kittelIntTRS.dir/lib/IntTRS/Rule.cpp.o CMakeFiles/llvm2kittelIntTRS.dir/lib/IntTRS/Term.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libllvm2kittelIntTRS.a

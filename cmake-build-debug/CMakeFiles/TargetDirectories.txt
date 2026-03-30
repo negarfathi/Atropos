@@ -1,0 +1,8 @@
+/Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug/CMakeFiles/intrinsics_gen.dir
+/Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug/CMakeFiles/omp_gen.dir
+/Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug/CMakeFiles/acc_gen.dir
+/Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug/CMakeFiles/RISCVTargetParserTableGen.dir
+/Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug/CMakeFiles/clang-tablegen-targets.dir
+/Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug/CMakeFiles/Atropos.dir
+/Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

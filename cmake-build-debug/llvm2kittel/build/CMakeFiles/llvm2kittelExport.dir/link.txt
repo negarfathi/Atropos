@@ -1,0 +1,2 @@
+/usr/bin/ar cr libllvm2kittelExport.a  CMakeFiles/llvm2kittelExport.dir/lib/Export/ComplexityTuplePrinter.cpp.o CMakeFiles/llvm2kittelExport.dir/lib/Export/UniformComplexityTuplePrinter.cpp.o
+/usr/bin/ranlib libllvm2kittelExport.a

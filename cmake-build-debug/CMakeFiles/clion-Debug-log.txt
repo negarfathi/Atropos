@@ -1,0 +1,9 @@
+/Users/nfathi2/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/nfathi2/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/nfathi2/Documents/liveness_analysis/Atropos -B /Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug
+-- Found LLVM 18.1.6
+-- Using LLVMConfig.cmake in: /opt/homebrew/opt/llvm/lib/cmake/llvm
+-- Using ClangConfig.cmake in: 
+-- Found Z3 4.13.0.0
+-- Using Z3Config.cmake in: /opt/homebrew/lib/cmake/z3
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/nfathi2/Documents/liveness_analysis/Atropos/cmake-build-debug

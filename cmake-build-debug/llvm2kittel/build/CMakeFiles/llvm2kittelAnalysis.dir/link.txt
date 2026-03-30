@@ -1,0 +1,2 @@
+/usr/bin/ar cr libllvm2kittelAnalysis.a  CMakeFiles/llvm2kittelAnalysis.dir/lib/Analysis/ConditionPropagator.cpp.o CMakeFiles/llvm2kittelAnalysis.dir/lib/Analysis/HierarchyBuilder.cpp.o CMakeFiles/llvm2kittelAnalysis.dir/lib/Analysis/InstChecker.cpp.o CMakeFiles/llvm2kittelAnalysis.dir/lib/Analysis/LoopConditionBlocksCollector.cpp.o CMakeFiles/llvm2kittelAnalysis.dir/lib/Analysis/LoopConditionExplicitizer.cpp.o CMakeFiles/llvm2kittelAnalysis.dir/lib/Analysis/MemoryAnalyzer.cpp.o
+/usr/bin/ranlib libllvm2kittelAnalysis.a

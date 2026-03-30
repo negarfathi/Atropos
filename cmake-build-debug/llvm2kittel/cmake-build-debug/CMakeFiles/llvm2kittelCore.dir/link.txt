@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libllvm2kittelCore.a CMakeFiles/llvm2kittelCore.dir/lib/Core/BoundConstrainer.cpp.o CMakeFiles/llvm2kittelCore.dir/lib/Core/Converter.cpp.o CMakeFiles/llvm2kittelCore.dir/lib/Core/ConstraintEliminator.cpp.o CMakeFiles/llvm2kittelCore.dir/lib/Core/Kittelizer.cpp.o CMakeFiles/llvm2kittelCore.dir/lib/Core/Slicer.cpp.o CMakeFiles/llvm2kittelCore.dir/lib/Core/ConstraintSimplifier.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libllvm2kittelCore.a

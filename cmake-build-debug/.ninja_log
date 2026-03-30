@@ -1,0 +1,13 @@
+# ninja log v5
+3	4325	1729563492108226534	CMakeFiles/Atropos.dir/src/loop_visitor.cpp.o	76688d4f764e47fc
+4	3415	1729563491196068978	CMakeFiles/Atropos.dir/src/code_action.cpp.o	b59746973d7b346
+6732	6956	1729563494750521754	Atropos	5334e3386c378800
+3	3355	1729563491134819059	CMakeFiles/Atropos.dir/src/loop_action.cpp.o	3999558fdfacaa69
+3356	6575	1729563494361514035	CMakeFiles/Atropos.dir/src/code_visitor_and_rewriter.cpp.o	e1819d70d1ba900d
+3013	6732	1729563494516847485	CMakeFiles/Atropos.dir/src/code_consumer.cpp.o	5ae5b4ff29211786
+3	4455	1729563492238351057	CMakeFiles/Atropos.dir/src/loop_consumer.cpp.o	760904c14c875d3b
+4	3452	1729563491237880756	CMakeFiles/Atropos.dir/src/variable_action.cpp.o	dae5b8b2820f0ce0
+0	149	1729563520957385542	build.ninja	68cf9e49f84271d
+3	3406	1729563491186610140	CMakeFiles/Atropos.dir/src/main.cpp.o	9742d80dabc7fb04
+4	4433	1729563492215799333	CMakeFiles/Atropos.dir/src/variable_consumer.cpp.o	e4068cf34e2404dc
+4	3012	1729563490796216445	CMakeFiles/Atropos.dir/src/variable_visitor.cpp.o	8bb0a3ef3a00344d

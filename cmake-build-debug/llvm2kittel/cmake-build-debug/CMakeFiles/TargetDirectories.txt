@@ -1,0 +1,10 @@
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/llvm2kittelAnalysis.dir
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/llvm2kittelExport.dir
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/llvm2kittelCore.dir
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/llvm2kittelIntTRS.dir
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/llvm2kittelTransform.dir
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/llvm2kittelUtil.dir
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/make_git_sha1.dir
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/llvm2kittel.dir
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nfathi2/Documents/liveness_analysis/llvm2kittel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

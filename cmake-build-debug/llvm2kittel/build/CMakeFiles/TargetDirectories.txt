@@ -1,0 +1,8 @@
+/liveness_analysis/llvm2kittel/build/CMakeFiles/llvm2kittel.dir
+/liveness_analysis/llvm2kittel/build/CMakeFiles/llvm2kittelAnalysis.dir
+/liveness_analysis/llvm2kittel/build/CMakeFiles/llvm2kittelCore.dir
+/liveness_analysis/llvm2kittel/build/CMakeFiles/llvm2kittelExport.dir
+/liveness_analysis/llvm2kittel/build/CMakeFiles/llvm2kittelIntTRS.dir
+/liveness_analysis/llvm2kittel/build/CMakeFiles/llvm2kittelTransform.dir
+/liveness_analysis/llvm2kittel/build/CMakeFiles/llvm2kittelUtil.dir
+/liveness_analysis/llvm2kittel/build/CMakeFiles/make_git_sha1.dir
